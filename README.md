@@ -1,3 +1,4 @@
+## Medical Chatbot
 
 ```markdown
 # 🩺 Medical Chatbot for Patient Care and Health Management
@@ -6,8 +7,8 @@ A smart and multilingual medical chatbot designed to assist patients by answerin
 
 ## 🔍 Features
 
-- 🧠 **Medical Q&A Module**: Answers medical-related questions using a trained LLM.
-- 📄 **Report Analysis Module**: Reads medical scan reports (PDF/Image) and provides key insights using OCR + NLP.
+- 🧠 **Medical Q&A Module**: Answers medical-related questions using a trained LLM and using RAG Pipeline.
+- 📄 **Report Analysis Module**: Reads medical scan reports (PDF/Image) and provides key insights finetuned LLM.
 - 🌿 **Health & Wellness Module**: Suggests physical exercises, mental wellness tips, and health management advice.
 - 🌐 **Multi-language Support**: Accepts and responds in multiple languages.
 - 🎤 **Voice Interface**: Converts voice to text and text to voice using Speech-to-Text and Text-to-Speech.
@@ -62,10 +63,9 @@ streamlit run app.py
 ## 🛠️ Tech Stack
 
 * **Frontend**: Streamlit
-* **Language Models**: Google Gemini / Open-source LLMs
-* **OCR**: Tesseract
-* **Speech**: Google Speech-to-Text, pyttsx3
-* **Translation**: Google Translate API
+* **Language Models**: Google Gemini / Llama 3.3 70B / Llama 3.2 Vision 11B
+* **Speech**: gtts, pyttsx3
+* **Translation**: Deeptranslator
 * **Backend**: Python
 
 ## 📸 Screenshots
@@ -79,19 +79,9 @@ streamlit run app.py
 * Daily health improvement tips
 * Support for visually impaired users (voice-based interaction)
 
-## 📄 License
-
-MIT License
-
 ## 🤝 Contact
 
-**PK – B.Tech AI & Data Science Final Year Student**
+**Pavankumar – B.Tech AI & Data Science**
 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
-```
-
----
-
-Would you like me to generate this `README.md` file and send it to you so you can copy-paste or upload directly?
-```
