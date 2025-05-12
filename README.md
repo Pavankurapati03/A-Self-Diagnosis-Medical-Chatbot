@@ -74,7 +74,8 @@ streamlit run app.py
 
 ## 🤝 Contact
 
-**Pavankumar – B.Tech AI & Data Science**
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+**Pavankumar – B.Tech AI & Data Science**  
+📧 Email: [your-email@example.com](mailto:your-email@example.com)  
 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
 
