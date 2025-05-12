@@ -6,30 +6,14 @@ Built for patients, elderly individuals, and people with limited access to immed
 ```markdown
 🔍 Features
 
-- 🧠 **Medical Q&A Module**: Answers medical-related questions using a trained LLM and using RAG Pipeline.
-- 📄 **Report Analysis Module**: Reads medical scan reports (PDF/Image) and provides key insights finetuned LLM.
-- 🌿 **Health & Wellness Module**: Suggests physical exercises, mental wellness tips, and health management advice.
-- 🌐 **Multi-language Support**: Accepts and responds in multiple languages.
-- 🎤 **Voice Interface**: Converts voice to text and text to voice using Speech-to-Text and Text-to-Speech.
-- 💬 **Minimal & Focused Responses**: Gives concise answers, perfect for real-time assistance.
+- 🧠 Medical Q&A Module: Answers medical-related questions using a trained LLM and using RAG Pipeline.
+- 📄 Report Analysis Module: Reads medical scan reports (PDF/Image) and provides key insights finetuned LLM.
+- 🌿 Health & Wellness Module: Suggests physical exercises, mental wellness tips, and health management advice.
+- 🌐 Multi-language Support: Accepts and responds in multiple languages.
+- 🎤 Voice Interface: Converts voice to text and text to voice using Speech-to-Text and Text-to-Speech.
+- 💬 Minimal & Focused Responses: Gives concise answers, perfect for real-time assistance.
 
 ```
-
-## 🧱 Project Structure
-
-📁 medical\_chatbot\_project/
-│
-├── 📁 medical\_qa\_module/
-│   └── (LLM response generation code)
-│
-├── 📁 report\_analysis\_module/
-│   └── (OCR + NLP pipeline for scanning reports)
-│
-├── 📁 health\_management\_module/
-    └── (wellness recommendation code)
-
-
-````
 
 ## 🚀 How to Run
 
@@ -58,9 +42,9 @@ The medical chatbot consists of three main modules, each solving a specific prob
 ---
 
 '''
-#### 1️⃣ **Medical Q\&A Module**
+#### 1️⃣ Medical Q\&A Module
 
-**🔍 Purpose:**
+🔍 Purpose:
 This module answers user queries related to health, symptoms, diseases, and general medical knowledge. It uses a Language Model (LLM) trained or prompted on medical data.
 
 **🛠️ How to Use:**
