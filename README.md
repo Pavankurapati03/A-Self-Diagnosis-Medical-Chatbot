@@ -1,4 +1,7 @@
 ## Medical Chatbot
+This project is an AI-powered Medical Chatbot designed to assist patients with instant, accurate, and multilingual medical support. It serves as a virtual healthcare assistant that can answer medical questions, analyze scanning reports, and give personalized health and wellness advice.
+
+Built for patients, elderly individuals, and people with limited access to immediate medical consultation, this chatbot also supports visually impaired users through voice-based interaction. It can simplify complex health information and promote better health awareness, anytime and anywhere.
 
 ```markdown
 ## 🔍 Features
