@@ -47,42 +47,42 @@ The medical chatbot consists of three main modules, each solving a specific prob
 🔍 Purpose:
 This module answers user queries related to health, symptoms, diseases, and general medical knowledge. It uses a Language Model (LLM) trained or prompted on medical data.
 
-**🛠️ How to Use:**
+🛠️ How to Use:
 
-* Type or speak your question in the chatbot (e.g., *"What are the symptoms of diabetes?"*)
-* The bot gives a **short, accurate answer** in your selected language.
+* Type or speak your question in the chatbot (e.g., "What are the symptoms of diabetes?")
+* The bot gives a short, accurate answer in your selected language.
 
-**👥 Helpful For:**
+👥 Helpful For:
 Patients needing quick health info, people in remote areas, and those looking for trustworthy answers without searching online.
 
 ---
 
-#### 2️⃣ **Scanning Report Analysis Module**
+#### 2️⃣ Scanning Report Analysis Module
 
-**🔍 Purpose:**
-This module reads uploaded **medical reports (PDF or image)** and extracts important details. It uses OCR (Optical Character Recognition) to read text and NLP to interpret it.
+🔍 Purpose:
+This module reads uploaded medical reports (PDF or image) and extracts important details. It uses OCR (Optical Character Recognition) to read text and NLP to interpret it.
 
-**🛠️ How to Use:**
+🛠️ How to Use:
 
 * Upload your scan report (e.g., blood test, CT scan, MRI Scan, X-Ray).
-* The chatbot will read the text from the report and provide a simple explanation of key findings (e.g., *"Your hemoglobin level is slightly low. It may indicate anemia."*).
+* The chatbot will read the text from the report and provide a simple explanation of key findings (e.g., "Your hemoglobin level is slightly low. It may indicate anemia.").
 
-**👥 Helpful For:**
+👥 Helpful For:
 Patients who don’t understand medical terms in reports, elderly people, and those who want a second opinion in plain language.
 
 ---
 
-#### 3️⃣ **Holistic Health Management Module**
+#### 3️⃣ Holistic Health Management Module
 
-**🔍 Purpose:**
+🔍 Purpose:
 This module gives **daily health improvement suggestions** like exercises, mental health tips, sleep routines, and food habits based on user needs or health conditions.
 
-**🛠️ How to Use:**
+🛠️ How to Use:
 
-* Ask for advice (e.g., *"How can I reduce stress?"* or *"Suggest a workout plan for weight loss"*)
+* Ask for advice (e.g., "How can I reduce stress?" or "Suggest a workout plan for weight loss")
 * The bot gives clear, customized suggestions.
 
-**👥 Helpful For:**
+👥 Helpful For:
 Anyone looking to maintain good health, manage lifestyle diseases, or improve physical and mental well-being.
 
 ```
