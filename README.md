@@ -75,7 +75,7 @@ Patients who don’t understand medical terms in reports, elderly people, and th
 #### 3️⃣ Holistic Health Management Module
 
 🔍 Purpose:
-This module gives **daily health improvement suggestions** like exercises, mental health tips, sleep routines, and food habits based on user needs or health conditions.
+This module gives daily health improvement suggestions like exercises, mental health tips, sleep routines, and food habits based on user needs or health conditions.
 
 🛠️ How to Use:
 
