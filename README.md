@@ -117,6 +117,10 @@ Anyone looking to maintain good health, manage lifestyle diseases, or improve ph
 
 ## 📸 Screenshots
 
+![Image](https://github.com/user-attachments/assets/2bf731fa-939a-4f34-8f6e-5841a36fd810)
+
+![Image](https://github.com/user-attachments/assets/4df93a4f-bb9b-4041-a10c-3b58da16585e)
+
 
 ## 👨‍⚕️ Use Cases
 
