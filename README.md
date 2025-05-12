@@ -1,7 +1,7 @@
 ## Medical Chatbot
 
 ```markdown
-## 🔍 Features
+##🔍 Features
 
 - 🧠 **Medical Q&A Module**: Answers medical-related questions using a trained LLM and using RAG Pipeline.
 - 📄 **Report Analysis Module**: Reads medical scan reports (PDF/Image) and provides key insights finetuned LLM.
