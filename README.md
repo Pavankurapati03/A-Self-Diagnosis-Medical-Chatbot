@@ -53,8 +53,6 @@ streamlit run app.py
 ### Project Modules
 ```markdown
 
-🧩 Modules in the Project
-
 The medical chatbot consists of three main modules, each solving a specific problem in healthcare assistance:
 
 ---
