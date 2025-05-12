@@ -82,7 +82,7 @@ This module reads uploaded **medical reports (PDF or image)** and extracts impor
 
 **🛠️ How to Use:**
 
-* Upload your scan report (e.g., blood test, CT scan).
+* Upload your scan report (e.g., blood test, CT scan, MRI Scan, X-Ray).
 * The chatbot will read the text from the report and provide a simple explanation of key findings (e.g., *"Your hemoglobin level is slightly low. It may indicate anemia."*).
 
 **👥 Helpful For:**
