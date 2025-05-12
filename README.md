@@ -1,10 +1,6 @@
 ## Medical Chatbot
 
 ```markdown
-# 🩺 Medical Chatbot for Patient Care and Health Management
-
-A smart and multilingual medical chatbot designed to assist patients by answering health queries, analyzing medical reports, and offering holistic wellness suggestions. Built using AI, NLP, and Deep Learning technologies with a user-friendly Streamlit interface.
-
 ## 🔍 Features
 
 - 🧠 **Medical Q&A Module**: Answers medical-related questions using a trained LLM and using RAG Pipeline.
@@ -75,7 +71,7 @@ streamlit run app.py
 ## 🤝 Contact
 
 **Pavankumar – B.Tech AI & Data Science**  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+📧 Email: [pavankurapati0105@gmail.com](mailto:pavankurapati0105@gmail.com)  
+🔗 LinkedIn: [PavanKumar Kurapati](https://www.linkedin.com/in/pavankumar-kurapati/)
 
 
