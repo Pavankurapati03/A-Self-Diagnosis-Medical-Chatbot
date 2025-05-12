@@ -4,7 +4,7 @@ This project is an AI-powered Medical Chatbot designed to assist patients with i
 Built for patients, elderly individuals, and people with limited access to immediate medical consultation, this chatbot also supports visually impaired users through voice-based interaction. It can simplify complex health information and promote better health awareness, anytime and anywhere.
 
 ```markdown
-## 🔍 Features
+🔍 Features
 
 - 🧠 **Medical Q&A Module**: Answers medical-related questions using a trained LLM and using RAG Pipeline.
 - 📄 **Report Analysis Module**: Reads medical scan reports (PDF/Image) and provides key insights finetuned LLM.
@@ -53,7 +53,7 @@ streamlit run app.py
 
 ```markdown
 
-### 🧩 Modules in the Project
+🧩 Modules in the Project
 
 The medical chatbot consists of **three main modules**, each solving a specific problem in healthcare assistance:
 
