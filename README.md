@@ -14,9 +14,9 @@ A smart and multilingual medical chatbot designed to assist patients by answerin
 - 🎤 **Voice Interface**: Converts voice to text and text to voice using Speech-to-Text and Text-to-Speech.
 - 💬 **Minimal & Focused Responses**: Gives concise answers, perfect for real-time assistance.
 
-## 🧱 Project Structure
-
 ```
+
+## 🧱 Project Structure
 
 📁 medical\_chatbot\_project/
 │
@@ -27,16 +27,8 @@ A smart and multilingual medical chatbot designed to assist patients by answerin
 │   └── (OCR + NLP pipeline for scanning reports)
 │
 ├── 📁 health\_management\_module/
-│   └── (wellness recommendation code)
-│
-├── 📁 frontend/
-│   └── (Streamlit UI code)
-│
-├── 📁 assets/
-│   └── (images, PDFs, and other resources)
-│
-├── requirements.txt
-└── app.py (main integration file)
+    └── (wellness recommendation code)
+
 
 ````
 
@@ -64,6 +56,7 @@ streamlit run app.py
 
 * **Frontend**: Streamlit
 * **Language Models**: Google Gemini / Llama 3.3 70B / Llama 3.2 Vision 11B
+* **Pipeline**: RAG
 * **Speech**: gtts, pyttsx3
 * **Translation**: Deeptranslator
 * **Backend**: Python
