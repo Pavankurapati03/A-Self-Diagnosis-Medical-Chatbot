@@ -117,7 +117,6 @@ Anyone looking to maintain good health, manage lifestyle diseases, or improve ph
 
 ## 📸 Screenshots
 
-*(Include 2-3 screenshots showing the chatbot in action)*
 
 ## 👨‍⚕️ Use Cases
 
